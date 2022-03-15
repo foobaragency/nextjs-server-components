@@ -1,0 +1,12 @@
+{
+  "semi": true,
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": "_app.tsx",
+      "options": {
+        "printWidth": 200
+      }
+    }
+  ]
+}
